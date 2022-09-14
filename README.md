@@ -98,18 +98,18 @@ void loop()
 
 
 
-**
-**Simulation output:** 
+
+### Simulation output:
 ![ex2](https://user-images.githubusercontent.com/93427186/189675380-bceb1ff6-ce6a-466f-9da4-b5d8361f57cf.PNG)
 
-**
 
 
-[My image](username.github.com/repository/img/image.jpg)
+
+### serial output
 ![serial moniter](https://user-images.githubusercontent.com/93427186/190155849-eeb31801-7a63-4ef0-b865-a42fcabab713.PNG)
 
 
-
+ 
 
 
 
